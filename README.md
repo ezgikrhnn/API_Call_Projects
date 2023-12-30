@@ -9,7 +9,9 @@ Here I do internet-based operations in different mini projects.
 Here I took the datas from the website using FakeAPI with the "GET" method. I used the SDWebImage library for images. As an alternative, the KingFisher library could also be used.
 
 UICollectionView
+
 JSONParse
+
 SDWebImage
 
 
