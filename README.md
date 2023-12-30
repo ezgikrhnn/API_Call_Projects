@@ -12,4 +12,13 @@ UICollectionView
 JSONParse
 SDWebImage
 
-<img width="221" alt="Ekran Resmi 2023-12-30 00 06 27" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/0a7624a4-8acc-4cad-a3bd-a4087a3c4d80">
+
+<img width="230" alt="Ekran Resmi 2023-12-30 12 06 49" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/ed999a02-f8dd-4547-a9bd-351d422649a9">
+
+
+
+# Weather Mini Application
+It was a work in which I focused on capturing data, not design.  
+OpenWeatherAPI
+
+<img width="230" alt="Ekran Resmi 2023-12-30 00 06 27" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/0a7624a4-8acc-4cad-a3bd-a4087a3c4d80">
