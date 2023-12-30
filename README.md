@@ -12,4 +12,4 @@ UICollectionView
 JSONParse
 SDWebImage
 
-<img width="442" alt="Ekran Resmi 2023-12-30 00 06 27" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/0a7624a4-8acc-4cad-a3bd-a4087a3c4d80">
+<img width="221" alt="Ekran Resmi 2023-12-30 00 06 27" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/0a7624a4-8acc-4cad-a3bd-a4087a3c4d80">
