@@ -26,8 +26,8 @@ SDWebImage
 
 For this Swift project, an API was used to pull data from 'https://dummyjson.com/products'. This URL serves as a FakeAPI that provides fake data. DummyJSON is a platform that offers randomly generated dummy data. With the use of URLSession within the project, an HTTP GET request was made to retrieve the data from this API. You can search among products with UISearchController and access the detail page when you click on the cells.
 
+![Adsız tasarım kopyası](https://github.com/ezgikrhnn/API_Studies/assets/109277079/7917f5d3-da4b-4557-9d81-7d1f234eb79d)
 
-<img width="300" alt="Ekran Resmi 2024-01-06 02 26 24" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/c17cae77-f954-41e5-b18a-cc60f3ed26f5">
 
 
 # Weather Mini Application
