@@ -1,11 +1,16 @@
 # API_Studies
 Here I do internet-based operations in different mini projects.
 
-✅ FakeAPI Mini Application
+✅ FakeAPI Mini Project
 
-✅ Product Mini Application
+✅ Product Mini Project
 
-✅ Weather (Hava Durumu) Mini Application
+✅ News App Mini Project
+
+✅ Movie Information Mini Project
+
+✅ Weather (Hava Durumu) Mini Project
+
 
 
 # FakeAPI Mini Application
