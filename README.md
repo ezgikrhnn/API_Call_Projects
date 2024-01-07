@@ -24,7 +24,7 @@ JSONParse
 SDWebImage
 
 
-<img width="320" alt="Ekran Resmi 2023-12-30 12 06 49" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/ed999a02-f8dd-4547-a9bd-351d422649a9">
+<img width="400" alt="Ekran Resmi 2023-12-30 12 06 49" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/ed999a02-f8dd-4547-a9bd-351d422649a9">
 
 
 # Product Mini Project
