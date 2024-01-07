@@ -37,6 +37,20 @@ SDWebImage
 
 ![Adsız tasarım kopyası](https://github.com/ezgikrhnn/API_Studies/assets/109277079/7917f5d3-da4b-4557-9d81-7d1f234eb79d)
 
+# News APP Mini Project
+For this Swift project, an API was used to pull data from "https://newsapi.org/v2/top-headlines?country=us&apiKey=aa866dd109b4435aa11ab4640bb06bf3".
+
+UICollectionView
+
+MVC
+
+JSONParse/Codable Protocol
+
+SDWebImage
+
+![Adsız tasarım kopyası 2](https://github.com/ezgikrhnn/API_Studies/assets/109277079/78400a6c-f7fd-4263-862c-84f08161baa2)
+
+
 
 # Weather Mini Application
 It was a work in which I focused on capturing data, not design.  
