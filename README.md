@@ -35,6 +35,7 @@ JSONParse/Codable Protocol
 
 SDWebImage
 
+
 ![Adsız tasarım kopyası](https://github.com/ezgikrhnn/API_Studies/assets/109277079/7917f5d3-da4b-4557-9d81-7d1f234eb79d)
 
 # News APP Mini Project
@@ -48,8 +49,9 @@ JSONParse/Codable Protocol
 
 SDWebImage
 
+<img width="600" alt="Ekran Resmi 2024-01-08 01 17 19" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/a292e537-56ff-4c91-bbd5-dca937acef3a">
 
-![Uploading Ekran Resmi 2024-01-08 01.17.19.png…]()
+
 
 
 # Weather Mini Application
