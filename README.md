@@ -49,7 +49,7 @@ JSONParse/Codable Protocol
 
 SDWebImage
 
-<img width="1200" alt="Ekran Resmi 2024-01-08 01 17 19" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/a292e537-56ff-4c91-bbd5-dca937acef3a">
+<img width="1000" alt="Ekran Resmi 2024-01-08 01 17 19" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/a292e537-56ff-4c91-bbd5-dca937acef3a">
 
 
 
