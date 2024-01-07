@@ -48,8 +48,8 @@ JSONParse/Codable Protocol
 
 SDWebImage
 
-![Adsız tasarım kopyası 2](https://github.com/ezgikrhnn/API_Studies/assets/109277079/78400a6c-f7fd-4263-862c-84f08161baa2)
 
+![Uploading Ekran Resmi 2024-01-08 01.17.19.png…]()
 
 
 # Weather Mini Application
