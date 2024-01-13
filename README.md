@@ -9,6 +9,8 @@ Here I do internet-based operations in different mini projects.
 
 ✅ Movie Information Mini Project
 
+✅ Kanye Quotes Mini Project
+
 ✅ Weather (Hava Durumu) Mini Project
 
 
@@ -55,6 +57,11 @@ JSONParse/Codable Protocol
 SDWebImage
 
 <img width="1000" alt="Ekran Resmi 2024-01-08 01 17 19" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/a292e537-56ff-4c91-bbd5-dca937acef3a">
+
+# Kanye Quotes Mini Project
+API url: https://api.kanye.rest/
+
+![Adsız tasarım](https://github.com/ezgikrhnn/API_Calls/assets/109277079/96ffd83b-b172-4987-b3f6-59b6ad63e764)
 
 
 # Weather Mini Project
