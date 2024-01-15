@@ -1,5 +1,5 @@
 # API CALLS 
-Here I do internet-based operations in different mini projects.
+Here I do internet-based operations in 7 different mini projects.
 
 ✅ FakeAPI Mini Project
 
