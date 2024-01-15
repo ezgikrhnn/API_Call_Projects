@@ -13,6 +13,7 @@ Here I do internet-based operations in different mini projects.
 
 ✅ Weather (Hava Durumu) Mini Project
 
+✅ Questions Mini Project
 
 
 # FakeAPI Mini Project
