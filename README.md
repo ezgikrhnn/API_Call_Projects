@@ -70,3 +70,7 @@ It was a work in which I focused on capturing data, not design.
 OpenWeatherAPI
 
 <img width="230" alt="Ekran Resmi 2023-12-30 00 06 27" src="https://github.com/ezgikrhnn/API_Studies/assets/109277079/0a7624a4-8acc-4cad-a3bd-a4087a3c4d80">
+
+# Questions Mini Project
+My aim in this project was to list the questions of the Quiz APP project I am currently developing on UITableView. I did my work using the Codable protocol.
+API Url: https://quiz-68112-default-rtdb.firebaseio.com/quiz.json
