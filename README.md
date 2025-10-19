@@ -47,8 +47,7 @@ SDWebImage
 ![Adsız tasarım kopyası](https://github.com/ezgikrhnn/API_Studies/assets/109277079/7917f5d3-da4b-4557-9d81-7d1f234eb79d)
 
 # News API Mini Project
-For this Swift project, an API was used to pull data from "https://newsapi.org/v2/top-headlines?country=us&apiKey=aa866dd109b4435aa11ab4640bb06bf3".
-
+For this Swift project, an API was used to pull data.
 UICollectionView
 
 MVC
